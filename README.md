@@ -2,7 +2,7 @@
 A project, where we created an Image Edge Detector, written in Verilog. 
 
 <h2>Demonstration Video</h2>
-<a href="https://www.youtube.com/watch?feature=player_embedded&v=rppAjAvC2ncQlb_o
+<a href="https://www.youtube.com/watch?feature=player_embedded&v=yZlG9sK8udQ
 " target="_blank"><img src="https://github.com/user-attachments/assets/bc73b075-2648-4a49-930f-69d9903ad229" 
 alt="IMAGE ALT TEXT HERE" border="10" /></a>
 
