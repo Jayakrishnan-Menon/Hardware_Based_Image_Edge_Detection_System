@@ -8,7 +8,7 @@ alt="IMAGE ALT TEXT HERE" border="10" /></a>
 
 <h2>Documentation</h2>
 <p>The detailed documentation of this project can be found within the same repository.</p>
-<p>Please <a href="https://github.com/Jayakrishnan-Menon/8051_Based_Auto_Billing_Shopping_Cart/raw/refs/heads/main/MPMC%20Project%20Report.docx" target="_blank" rel="noopener noreferrer">Click here</a> to download the documentation in MS word format.</p>
+<p>Please <a href="https://github.com/Jayakrishnan-Menon/Hardware_Based_Image_Edge_Detection_System/raw/refs/heads/main/FPGA-Based%20Edge%20Detection%20System%20using%20Sobel%20Operator.docx" target="_blank" rel="noopener noreferrer">Click here</a> to download the documentation in MS word format.</p>
 
 <h2>Sample Images</h2>
 <table>
